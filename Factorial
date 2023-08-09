@@ -7,7 +7,7 @@ int main()
 	scanf("%d",&n);
 	printf("factorial of the given number :: %d",fact(n));
 }
- fact(int n)
+ int fact(int n)
  {
  	if(n>=1)
  		return n*fact(n-1);
