@@ -7,7 +7,7 @@ int check(int)
 		if(i==t)
 		{
 			c=1;
-			printf("Target found at %d",i);
+			printf("Target found at position %d",i);
 			break;
 		}
 		else
