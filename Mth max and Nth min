@@ -32,5 +32,5 @@ int main()
 	printf(" The diff of mth and nth is :%d",a[m]-a[n-1]);
 	}
 	else
-		printf("invalid input.");
+        printf("invalid input.");
 }
